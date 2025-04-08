@@ -74,9 +74,4 @@ I'm currently open to fullstack development roles, mobile app projects, freelanc
 - [Twitter](https://twitter.com/yourusername)
 - [Medium](https://medium.com/@ikehnuel)
 - [Portfolio](https://yourportfolio.com)
-- [Email](mailto:youremail@example.com)
-
----
-
-⭐️ From [ikehnuel](https://github.com/ikehnuel)  
-Last updated: 2025-04-08 10:16:47 UTC
+- [Email](mailto:ikehnuel@gmail.com)
