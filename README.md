@@ -1,77 +1,23 @@
-# Hi there, I'm Emmanuel Ikechukwu 👋
+# Emmanuel Ikechukwu
 
-## Fullstack Developer with 6 Years of Experience
+AI systems engineer in Lagos, Nigeria. I build AI agents and document AI that work inside the systems a business already runs.
 
-I'm a seasoned fullstack developer with a passion for creating elegant, high-performance applications across web and mobile platforms. Over my 6-year journey in software development, I've mastered multiple technology stacks and delivered solutions that combine technical excellence with exceptional user experiences. I thrive in collaborative environments where I can leverage my diverse skillset to solve complex problems and build applications that make a real impact.
+Most of my career has gone into automating the manual work that slows businesses down, across fintech, logistics and healthcare. The job is usually the same: learn how the work really gets done, find the bottleneck, and decide what AI should handle and what a person should approve. I judge the result by what it saves after launch, not by the demo.
 
-### 🔧 Technical Expertise
+I'm the founder and lead engineer at [IEXO Technology](https://iexotech.com).
 
-**Frontend Development:**
-- ⚛️ **React.js** & **Next.js** - Building responsive, interactive UIs
-- 📱 **TypeScript/JavaScript** - Writing type-safe, maintainable code
-- 🎨 **HTML5, CSS3, Tailwind CSS** - Creating beautiful user experiences
-- 🔄 **Redux, Context API** - Managing application state effectively
+## What I work with
 
-**Mobile Development:**
-- 📱 **Flutter** - Cross-platform mobile applications with native performance
-- 📲 **React Native** - Building mobile apps with React architecture
+- **AI:** large language models, AI agents, retrieval (RAG), evaluation
+- **Automation and integration:** workflow automation, APIs, connecting AI to core business systems
+- **Backend:** Python, Node.js, NestJS, Go, PostgreSQL
+- **Frontend:** React, Next.js, TypeScript
+- **Cloud:** AWS, Docker, CI/CD
 
-**Backend Development:**
-- 🐘 **PHP, Laravel** - Robust backend systems and RESTful APIs
-- 🟢 **Node.js, Express** - Building scalable server-side applications
-- 🐍 **Python, Django** - Data-driven web applications
-- 🔌 **RESTful APIs & GraphQL** - Flexible data exchange
+Most of my work lives in private client and company repositories.
 
-**Database Management:**
-- 🍃 **MongoDB** - NoSQL document databases
-- 🐘 **PostgreSQL** - Advanced relational database systems
-- 🐬 **MySQL** - Reliable data storage solutions
-- 🔥 **Firebase** - Real-time database and backend services
+## Contact
 
-**DevOps & Tools:**
-- 🔄 **Git, GitHub** - Version control and collaboration
-- 🐳 **Docker** - Containerization for consistent environments
-- ☁️ **AWS** - Cloud infrastructure and services
-- 🚀 **CI/CD Pipelines** - Automated testing and deployment
-
-### 🚀 Projects
-
-**Weather Dashboard**
-- Description: A clean, responsive weather application that displays current conditions and forecasts based on location. Features a modern UI with animated weather icons and temperature trends.
-- Tech Stack: React, OpenWeather API, CSS3
-- Key Features: Location search, 5-day forecast, weather visualizations, responsive design
-- [Live Demo](https://weather-dash-demo.vercel.app) | [GitHub Repo](https://github.com/ikehnuel/weather-dashboard)
-
-**DevNotes**
-- Description: A minimalist note-taking app for developers with syntax highlighting, markdown support, and local storage persistence. Perfect for saving code snippets and development notes.
-- Tech Stack: React, LocalStorage API, Markdown-it
-- Key Features: Markdown editing, code syntax highlighting, categorization, search function
-- [Live Demo](https://devnotes-app.vercel.app) | [GitHub Repo](https://github.com/ikehnuel/devnotes)
-
-**Task Tracker**
-- Description: A simple but stylish task management application with drag-and-drop organization, priority levels, and completion tracking. Includes light/dark mode toggle.
-- Tech Stack: React, Context API, CSS3
-- Key Features: Task creation/editing, drag-and-drop organization, persistence, theme switching
-- [Live Demo](https://task-tracker-demo.vercel.app) | [GitHub Repo](https://github.com/ikehnuel/task-tracker)
-
-### 🌱 Currently Learning
-
-- 🛠️ **DevOps** - Infrastructure as Code, CI/CD optimization
-- 🤖 **Prompt Engineering** - Crafting effective AI prompts
-- ☁️ **Cloud Architecture** - Multi-cloud strategies and solutions
-
-### 💡 What I Enjoy
-
-I particularly enjoy working on automation solutions that improve efficiency and productivity in development workflows and business processes. I find satisfaction in optimizing systems and creating tools that make development more efficient and enjoyable.
-
-### 💼 Open for Opportunities
-
-I'm currently open to fullstack development roles, mobile app projects, freelance work, and collaboration opportunities. Whether it's building a new product from scratch or enhancing an existing application, I bring enthusiasm and expertise to every project.
-
-### 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Medium](https://medium.com/@ikehnuel)
-- [Portfolio](https://yourportfolio.com)
-- [Email](mailto:ikehnuel@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-ikechukwu-877249259/)
+- [iexotech.com](https://iexotech.com)
+- ifeanyi.ikechukwu@iexotech.com
